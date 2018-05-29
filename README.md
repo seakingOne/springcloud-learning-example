@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 # springcloud-learning
-=======
-# Spring Cloud教程
 
 本项目内容为Spring Cloud教程的程序样例。如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
 
-- 我的博客：http://blog.didispace.com
-- **我的小密圈（深度交流与问答）：https://t.xiaomiquan.com/zfEiY3v**
-- GitHub：https://github.com/dyc87112/SpringCloud-Learning
-- Gitee：https://gitee.com/didispace/SpringCloud-Learning
 - Spring For All社区：http://www.spring4all.com/
 - Spring Boot基础教程：http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
 - Spring Cloud基础教程：http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
@@ -96,18 +89,9 @@
 - [基于Consul的分布式锁实现](http://blog.didispace.com/spring-cloud-consul-lock-and-semphore/)
 - [基于Consul的分布式信号量实现](http://blog.didispace.com/spring-cloud-consul-lock-and-semphore-2/)
 
-## 我的公众号
-
-![输入图片说明](http://git.oschina.net/uploads/images/2017/0105/082137_85109d07_437188.jpeg "在这里输入图片标题")
-
-## 推荐我的书
-
-![输入图片说明](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
-
 ## 其他推荐
 
 - [Spring Boot基础教程](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)
 - [Spring Boot 2.0新特性](http://blog.didispace.com/Spring-Boot-2-0-feature/)
 - [Spring Cloud基础教程](http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)
 - [微服务架构专题](http://blog.didispace.com/micro-serivces-arch/)
->>>>>>> springclodeRepo
